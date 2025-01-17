@@ -33,4 +33,8 @@ func main() {
 
 	resultSum, resultSub := calcMaths(30, 10)
 	fmt.Println(resultSum, resultSub)
+
+	// Underline means ignoring the second return variable
+	resultSum2, _ := calcMaths(30, 10)
+	fmt.Println(resultSum2)
 }
