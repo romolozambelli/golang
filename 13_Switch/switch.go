@@ -37,6 +37,7 @@ func weekday3(number int) string {
 
 	var weekday string
 
+	// GO does not have a break sintax
 	switch {
 	case number == 1:
 		weekday = "Monday"
