@@ -43,6 +43,10 @@ func main() {
 		fmt.Println(key, value)
 	}
 
+	// for{
+	// infinite loop
+	// }
+
 	// GOLang does not accept for on struct
 	//type userStruct struct{"Ze","Colmeia"}
 
