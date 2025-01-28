@@ -12,7 +12,7 @@ func TestAddressTypeCheck(t *testing.T) {
 	receivedResult := AddressTypeCheck(testAddress)
 
 	if receivedResult != expectResult {
-		t.Error(fmt.Sprintf("Unexpected Result: Expected %s and received %s",
+		t.Error(fmt.Sprintf("No struct: Unexpected Result: Expected %s and received %s",
 			expectResult,
 			receivedResult))
 	}

@@ -1,0 +1,7 @@
+mode: set
+init.go/endereco/endereco.go:6.46,13.34 4 1
+init.go/endereco/endereco.go:13.34,14.24 1 1
+init.go/endereco/endereco.go:14.24,16.4 1 1
+init.go/endereco/endereco.go:19.2,19.25 1 1
+init.go/endereco/endereco.go:19.25,21.3 1 1
+init.go/endereco/endereco.go:23.2,23.23 1 1
