@@ -1,0 +1,7 @@
+Sample Body Request
+
+
+{
+    "name": "john",
+    "email": "john@gmail.com" 
+}
